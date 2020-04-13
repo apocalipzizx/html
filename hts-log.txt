@@ -1,15 +1,59 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Apr 2020 19:46:13 at http://localhost/prueba01/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/prueba01/ -O1 "C:\Users\LUIS\Documents\web HTRACK\WORDPRESS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Apr 2020 19:55:51 at http://localhost/assure/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/assure/ -O1 "C:\Users\LUIS\Documents\web HTRACK\ASSURE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-19:47:13	Warning: 	Found for localhost/prueba01/wp-admin/
-19:47:13	Warning: 	File has moved from localhost/prueba01/wp-admin/ to http://localhost/prueba01/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fprueba01%2Fwp-admin%2F&reauth=1
-19:47:19	Warning: 	Moved Permanently for localhost/prueba01/?p=17
-19:47:19	Warning: 	File has moved from localhost/prueba01/?p=17 to http://localhost/prueba01/nosotros/
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/bdthemes-element-pack-master/images/backgrounds/divider-icon.svg (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/bdthemes-element-pack-master/images/backgrounds/list-bullet.svg (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/images/layers.png (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/images/layers-2x.png (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/images/marker-icon.png (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/woocommerce/assets/fonts/star.eot (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/woocommerce/assets/fonts/star.eot? (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/woocommerce/assets/fonts/star.woff (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/woocommerce/assets/fonts/star.ttf (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Error: 	"Not Found" (404) at link localhost/assure/wp-content/plugins/woocommerce/assets/fonts/star.svg (from localhost/assure/wp-content/plugins/bdthemes-element-pack-master/assets/css/element-pack-site.css?ver=3.0.9)
+20:01:09	Warning: 	File not parsed, looks like binary: localhost/assure/wp-content/plugins/revslider/public/assets/css/openhand.cur
+20:01:09	Warning: 	File not parsed, looks like binary: localhost/assure/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+20:01:11	Warning: 	Moved Permanently for localhost/assure/?p=12
+20:01:11	Warning: 	File has moved from localhost/assure/?p=12 to http://localhost/assure/nuestros-programas/
+20:01:11	Warning: 	Moved Permanently for localhost/assure/?p=308
+20:01:11	Warning: 	File has moved from localhost/assure/?p=308 to http://localhost/assure/programa-familiar/
+20:01:11	Warning: 	Moved Permanently for localhost/assure/?p=751
+20:01:11	Warning: 	File has moved from localhost/assure/?p=751 to http://localhost/assure/programa-infantil/
+20:01:11	Warning: 	Moved Permanently for localhost/assure/?p=744
+20:01:11	Warning: 	File has moved from localhost/assure/?p=744 to http://localhost/assure/programa-adulto-mayor/
+20:01:11	Warning: 	Moved Permanently for localhost/assure/?p=763
+20:01:11	Warning: 	File has moved from localhost/assure/?p=763 to http://localhost/assure/programa-personal/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=15
+20:01:12	Warning: 	File has moved from localhost/assure/?p=15 to http://localhost/assure/promociones/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=468
+20:01:12	Warning: 	File has moved from localhost/assure/?p=468 to http://localhost/assure/centro-de-ayuda/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=470
+20:01:12	Warning: 	File has moved from localhost/assure/?p=470 to http://localhost/assure/noticias/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=1183
+20:01:12	Warning: 	File has moved from localhost/assure/?p=1183 to http://localhost/assure/preguntas-frecuentes/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=535
+20:01:12	Warning: 	File has moved from localhost/assure/?p=535 to http://localhost/assure/afiliate-al-programa-familiar/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=777
+20:01:12	Warning: 	File has moved from localhost/assure/?p=777 to http://localhost/assure/afiliate-al-programa-adulto-mayor/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=771
+20:01:12	Warning: 	File has moved from localhost/assure/?p=771 to http://localhost/assure/afiliate-al-programa-infantil/
+20:01:12	Warning: 	Moved Permanently for localhost/assure/?p=1189
+20:01:12	Warning: 	File has moved from localhost/assure/?p=1189 to http://localhost/assure/unete-a-la-red/
+20:01:13	Warning: 	Moved Permanently for localhost/assure/?p=409
+20:01:13	Warning: 	File has moved from localhost/assure/?p=409 to http://localhost/assure/uncategorized/gafas-de-realidad-aumentada-en-la-consulta-dental/
+20:01:45	Warning: 	Moved Permanently for localhost/assure/?p=405
+20:01:45	Warning: 	File has moved from localhost/assure/?p=405 to http://localhost/assure/uncategorized/como-mantener-una-boca-sana-en-verano/
+20:01:47	Warning: 	Moved Permanently for localhost/assure/?p=396
+20:01:47	Warning: 	File has moved from localhost/assure/?p=396 to http://localhost/assure/uncategorized/por-que-tenemos-hipersensibilidad-dentinaria/
+20:01:48	Warning: 	Moved Permanently for localhost/assure/?p=1
+20:01:48	Warning: 	File has moved from localhost/assure/?p=1 to http://localhost/assure/uncategorized/hello-world/
+20:02:12	Warning: 	Moved Permanently for localhost/assure/?p=785
+20:02:12	Warning: 	File has moved from localhost/assure/?p=785 to http://localhost/assure/afiliate-al-programa-personal/
 
-HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 67 links scanned, 64 files written (2298571 bytes overall) [2323638 bytes received at 31400 bytes/sec], 3.3 requests per connection
-(No errors, 4 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 23 seconds : 253 links scanned, 224 files written (12359370 bytes overall) [12844631 bytes received at 33536 bytes/sec], 3.9 requests per connection
+(10 errors, 38 warnings, 0 messages)

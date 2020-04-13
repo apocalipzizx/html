@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Apr 2020 19:46:13 at http://localhost/prueba01/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/prueba01/ -O1 "C:\Users\LUIS\Documents\web HTRACK\WORDPRESS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:13	Warning: 	Found for localhost/prueba01/wp-admin/
+19:47:13	Warning: 	File has moved from localhost/prueba01/wp-admin/ to http://localhost/prueba01/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fprueba01%2Fwp-admin%2F&reauth=1
+19:47:19	Warning: 	Moved Permanently for localhost/prueba01/?p=17
+19:47:19	Warning: 	File has moved from localhost/prueba01/?p=17 to http://localhost/prueba01/nosotros/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 67 links scanned, 64 files written (2298571 bytes overall) [2323638 bytes received at 31400 bytes/sec], 3.3 requests per connection
+(No errors, 4 warnings, 0 messages)

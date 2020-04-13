@@ -1,0 +1,1100 @@
+Uri: http://www.comacser.com/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/comments/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/themes/hello-elementor/style.min.css?ver=2.2.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.2.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.8.0-beta1
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=1.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\sticky-header-effects-for-elementor\assets\css\she-header-style.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/global.css?ver=1584840269
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-52.css?ver=1585023194
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-52.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-255.css?ver=1585270410
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-255.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-415.css?ver=1585270411
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-415.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\index.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/xmlrpc.php?rsd
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/cropped-comacser-favicon-32x32.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\cropped-comacser-favicon-32x32.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/cropped-comacser-favicon-192x192.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\cropped-comacser-favicon-192x192.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/cropped-comacser-favicon-180x180.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\cropped-comacser-favicon-180x180.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/quienes-somos/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\quienes-somos\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/servicios/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\servicios\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/planificacion-minera/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\planificacion-minera\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/seguridad-y-salud-en-el-trabajo/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\seguridad-y-salud-en-el-trabajo\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/medio-ambiente/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\medio-ambiente\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/gestion-de-operatividad-minera-2/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\gestion-de-operatividad-minera-2\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/geologia/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\geologia\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/estudios-topograficos/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\estudios-topograficos\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/gestion-legal/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\gestion-legal\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/proyectos/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\proyectos\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/agenda/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\agenda\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/blog/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\blog\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/contacto/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\contacto\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/proyecto-01/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\proyecto-01\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/2020/03/24/comunicado-minem/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\24\comunicado-minem\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/2020/03/17/oro-sube-tras-prohibicion-de-viajes-de-eeuu/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\oro-sube-tras-prohibicion-de-viajes-de-eeuu\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/2020/03/17/desarrollaran-generacion-de-energia-en-quellaveco/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\desarrollaran-generacion-de-energia-en-quellaveco\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/2020/03/17/sector-minero-e-hidrocarburos-incremento-3-53-en-enero-del-2020/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\sector-minero-e-hidrocarburos-incremento-3-53-en-enero-del-2020\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=1.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\sticky-header-effects-for-elementor\assets\js\she-header.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-top.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-top.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-img-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-img-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/linea.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\linea.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-01.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-02.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-02.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-03.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-03.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-04.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-04.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-05-300x150.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-05-300x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-04-300x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-04-300x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-03-300x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-03-300x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-02-300x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-02-300x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-footer-1024x448.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-footer-1024x448.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/phone.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\phone.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/email.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\email.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/local.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\local.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-bg-footer-1024x247.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-bg-footer-1024x247.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-includes/js/wp-embed.min.js?ver=5.3.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.8.0-beta1
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.8.0-beta1
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.3
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-top-300x131.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-top-300x131.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-top-1024x448.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-top-1024x448.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-top-768x336.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-top-768x336.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-img-1-300x296.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-img-1-300x296.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-img-1-768x758.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-img-1-768x758.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/linea-300x12.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\linea-300x12.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-01-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-01-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-01-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-01-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-02-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-02-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-02-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-02-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-03-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-03-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-03-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-03-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-04-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-04-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-ico-04-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-ico-04-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-05-1024x512.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-05-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-05-768x384.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-05-768x384.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-05.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-04-1024x512.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-04-1024x512.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-04-768x384.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-04-768x384.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-04.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-04.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-03-1024x512.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-03-1024x512.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-03-768x384.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-03-768x384.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-03.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-03.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-02-1024x512.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-02-1024x512.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-02-768x384.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-02-768x384.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-02.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-02.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-footer-300x131.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-footer-300x131.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-footer-768x336.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-footer-768x336.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-logo-footer.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-logo-footer.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/phone-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\phone-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/email-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\email-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/local-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\local-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-bg-footer-300x72.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-bg-footer-300x72.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-bg-footer-768x185.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-bg-footer-768x185.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-bg-footer-1536x370.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-bg-footer-1536x370.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-bg-footer.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-bg-footer.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.6.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.6.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.6.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.6.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.6.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-slider.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-slider.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-proyecto-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-proyecto-01.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-proyecto-02.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-proyecto-02.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-proyecto-03.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-proyecto-03.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-bg-blog.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-bg-blog.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-lineas-footer.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-lineas-footer.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-504.css?ver=1584241398
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-504.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fquienes-somos%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fquienes-somos%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/quienes-somos-img-01-997x1024.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\quienes-somos-img-01-997x1024.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/vision.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\vision.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/mision.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\mision.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-01.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-02.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-02.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-03.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-03.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-04.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-04.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/quienes-somos-img-01-292x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\quienes-somos-img-01-292x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/quienes-somos-img-01-768x788.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\quienes-somos-img-01-768x788.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/quienes-somos-img-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\quienes-somos-img-01.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/vision-300x200.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\vision-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/vision-768x512.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\vision-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/mision-300x200.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\mision-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/mision-768x512.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\mision-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-01-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-01-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-01-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-01-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-02-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-02-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-02-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-02-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-03-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-03-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-03-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-03-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-04-300x300.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-04-300x300.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/ico-04-150x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\ico-04-150x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-534.css?ver=1584449504
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-534.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fservicios%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fservicios%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-638.css?ver=1584253176
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-638.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fplanificacion-minera%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fplanificacion-minera%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/s-4-1024x576.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\s-4-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/s-3-1024x576.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\s-3-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/s-2-1024x576.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\s-2-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/s-1-1024x576.jpg
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\s-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.0.2
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.1.0
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-681.css?ver=1584253168
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-681.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fseguridad-y-salud-en-el-trabajo%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fseguridad-y-salud-en-el-trabajo%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-794.css?ver=1584443504
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-794.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fmedio-ambiente%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fmedio-ambiente%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-799.css?ver=1584471354
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-799.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fgestion-de-operatividad-minera-2%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fgestion-de-operatividad-minera-2%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-806.css?ver=1584449052
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-806.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fgeologia%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fgeologia%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-813.css?ver=1584449042
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-813.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Festudios-topograficos%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Festudios-topograficos%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-821.css?ver=1584449035
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-821.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fgestion-legal%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fgestion-legal%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-745.css?ver=1584441476
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-745.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fproyectos%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fproyectos%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-837.css?ver=1584889982
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-837.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fagenda%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fagenda%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/2020/03/22/28-nov-congreso-nacional-de-mineros-artesanales/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\22\28-nov-congreso-nacional-de-mineros-artesanales\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/agenda-01-300x200.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\agenda-01-300x200.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/agenda-01-1024x683.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\agenda-01-1024x683.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/agenda-01-768x512.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\agenda-01-768x512.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/agenda-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\agenda-01.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-693.css?ver=1584852326
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-693.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fblog%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fblog%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/2020/03/17/minera-brexia-goldplata-peru-alista-fusion-con-grupo-frances-amg-en-julio/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\minera-brexia-goldplata-peru-alista-fusion-con-grupo-frances-amg-en-julio\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-01.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-01-300x150.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-01-300x150.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-01-1024x512.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-01-1024x512.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/blog-01-768x384.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\blog-01-768x384.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-883.css?ver=1585024779
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-883.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fcontacto%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fcontacto%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-756.css?ver=1584442188
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-756.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fproyecto-01%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2Fproyecto-01%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-proyecto-01-1024x576.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-proyecto-01-1024x576.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-proyecto-01-300x169.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-proyecto-01-300x169.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-proyecto-01-768x432.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-proyecto-01-768x432.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/2020/03/24/comunicado-minem/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\24\comunicado-minem\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-948.css?ver=1585024793
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-948.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F24%2Fcomunicado-minem%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F24%2Fcomunicado-minem%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/author/us_comacser/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\author\us_comacser\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/2020/03/24/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\24\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/wp-content/plugins/elementor-pro/assets/lib/social-share/social-share.min.js?ver=0.2.17
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\plugins\elementor-pro\assets\lib\social-share\social-share.min.js
+Content Type: application/javascript
+
+Uri: http://www.comacser.com/2020/03/17/oro-sube-tras-prohibicion-de-viajes-de-eeuu/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\oro-sube-tras-prohibicion-de-viajes-de-eeuu\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-740.css?ver=1584436581
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-740.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Foro-sube-tras-prohibicion-de-viajes-de-eeuu%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Foro-sube-tras-prohibicion-de-viajes-de-eeuu%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/2020/03/17/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\index.htm
+Content Type: text/html
+
+Uri: http://www.comacser.com/2020/03/17/desarrollaran-generacion-de-energia-en-quellaveco/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\desarrollaran-generacion-de-energia-en-quellaveco\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-736.css?ver=1584436597
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-736.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Fdesarrollaran-generacion-de-energia-en-quellaveco%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Fdesarrollaran-generacion-de-energia-en-quellaveco%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/2020/03/17/sector-minero-e-hidrocarburos-incremento-3-53-en-enero-del-2020/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\sector-minero-e-hidrocarburos-incremento-3-53-en-enero-del-2020\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-732.css?ver=1584438142
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-732.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Fsector-minero-e-hidrocarburos-incremento-3-53-en-enero-del-2020%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Fsector-minero-e-hidrocarburos-incremento-3-53-en-enero-del-2020%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-quienes-somos.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-quienes-somos.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-servicios.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-servicios.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Planificación-minera-no-mobil.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Planificación-minera-no-mobil.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Seguridad-y-salud-en-el-trabajo.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Seguridad-y-salud-en-el-trabajo.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Medio-ambiente.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Medio-ambiente.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Gestión-de-operatividad-minera.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Gestión-de-operatividad-minera.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Geología.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Geología.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Estudios-topográficos.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Estudios-topográficos.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Gestión-legal.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Gestión-legal.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Planificación-minera-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Planificación-minera-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Seguridad-y-salud-en-el-trabajo-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Seguridad-y-salud-en-el-trabajo-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Medio-ambiente-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Medio-ambiente-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Gestión-de-operatividad-minera-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Gestión-de-operatividad-minera-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Geología-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Geología-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Estudios-topográficos-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Estudios-topográficos-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/Gestión-legal-1.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\Gestión-legal-1.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-proyectos.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-proyectos.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-agenda.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-agenda.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/2020/03/22/28-nov-congreso-nacional-de-mineros-artesanales/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\22\28-nov-congreso-nacional-de-mineros-artesanales\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-937.css?ver=1584890252
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-937.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F22%2F28-nov-congreso-nacional-de-mineros-artesanales%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F22%2F28-nov-congreso-nacional-de-mineros-artesanales%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-blog.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-blog.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/2020/03/17/minera-brexia-goldplata-peru-alista-fusion-con-grupo-frances-amg-en-julio/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\2020\03\17\minera-brexia-goldplata-peru-alista-fusion-con-grupo-frances-amg-en-julio\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: http://www.comacser.com/wp-content/uploads/elementor/css/post-710.css?ver=1584435647
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\elementor\css\post-710.css
+Content Type: text/css
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Fminera-brexia-goldplata-peru-alista-fusion-con-grupo-frances-amg-en-julio%2F
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: http://www.comacser.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.comacser.com%2F2020%2F03%2F17%2Fminera-brexia-goldplata-peru-alista-fusion-con-grupo-frances-amg-en-julio%2F&format=xml
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: http://www.comacser.com/wp-content/uploads/2020/03/comacser-slider-proyecto-01.png
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\wp-content\uploads\2020\03\comacser-slider-proyecto-01.png
+Content Type: image/png
+
+Uri: http://www.comacser.com/author/us_comacser/feed/
+File Name: C:\Users\LUIS\Documents\sitios descargados\www.comacser.com\author\us_comacser\feed\index.rss
+Content Type: application/rss+xml
+
